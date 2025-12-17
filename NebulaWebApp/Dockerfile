@@ -1,14 +1,16 @@
 ﻿FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
-USER $APP_UID
 WORKDIR /app
+
+ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
-EXPOSE 8081
 
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
+
 COPY ["NebulaWebApp/NebulaWebApp.csproj", "NebulaWebApp/"]
 RUN dotnet restore "NebulaWebApp/NebulaWebApp.csproj"
+
 COPY . .
 WORKDIR "/src/NebulaWebApp"
 RUN dotnet build "NebulaWebApp.csproj" -c $BUILD_CONFIGURATION -o /app/build
