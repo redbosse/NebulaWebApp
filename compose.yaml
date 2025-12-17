@@ -6,8 +6,6 @@
       context: .
       dockerfile: NebulaWebApp/Dockerfile
     restart: always
-    ports:
-      - "5055:8080"
     environment:
       ASPNETCORE_ENVIRONMENT: "Development" 
    

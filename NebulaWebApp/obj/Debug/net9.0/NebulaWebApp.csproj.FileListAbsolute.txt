@@ -6,15 +6,8 @@ F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\NebulaWebApp.deps.js
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\NebulaWebApp.runtimeconfig.json
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\NebulaWebApp.dll
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\NebulaWebApp.pdb
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.DotNet.InternalAbstractions.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.Extensions.PlatformAbstractions.dll
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Newtonsoft.Json.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Swashbuckle.Swagger.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Swashbuckle.SwaggerUi.dll
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\NebulaWebApp.csproj.AssemblyReference.cache
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\rpswa.dswa.cache.json
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\NebulaWebApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -38,4 +31,3 @@ F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\refint\NebulaWebApp.
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\NebulaWebApp.pdb
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\NebulaWebApp.genruntimeconfig.cache
 F:\RiderProjects\NebulaWebApp\NebulaWebApp\obj\Debug\net9.0\ref\NebulaWebApp.dll
-F:\RiderProjects\NebulaWebApp\NebulaWebApp\bin\Debug\net9.0\Swashbuckle.SwaggerGen.dll
