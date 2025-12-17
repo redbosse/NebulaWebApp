@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hnvmEctfBBk=",
+  "dgSpecHash": "uvU0xpO9iF4=",
   "success": true,
   "projectFilePath": "F:\\RiderProjects\\NebulaWebApp\\NebulaWebApp\\NebulaWebApp.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,9 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\1.0.0\\microsoft.aspnetcore.http.features.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\1.0.0\\microsoft.aspnetcore.jsonpatch.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\1.0.0\\microsoft.aspnetcore.mvc.abstractions.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\1.0.0\\microsoft.aspnetcore.mvc.apiexplorer.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\1.0.0\\microsoft.aspnetcore.mvc.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\1.0.0\\microsoft.aspnetcore.mvc.dataannotations.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\1.0.0\\microsoft.aspnetcore.mvc.formatters.json.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.routing\\1.0.0\\microsoft.aspnetcore.routing.1.0.0.nupkg.sha512",
@@ -27,6 +29,8 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencymodel\\1.0.0\\microsoft.extensions.dependencymodel.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\1.0.0\\microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\1.0.0\\microsoft.extensions.fileproviders.embedded.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization\\1.0.0\\microsoft.extensions.localization.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\1.0.0\\microsoft.extensions.localization.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\1.0.0\\microsoft.extensions.logging.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.objectpool\\1.0.0\\microsoft.extensions.objectpool.1.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\1.0.0\\microsoft.extensions.options.1.0.0.nupkg.sha512",
@@ -43,6 +47,7 @@
     "C:\\Users\\user\\.nuget\\packages\\runtime.native.system.net.http\\4.0.1\\runtime.native.system.net.http.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\runtime.native.system.security.cryptography\\4.0.0\\runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\swagger\\1.0.0\\swagger.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swaggergenerator\\1.1.0\\swaggergenerator.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\swaggerui\\1.1.0\\swaggerui.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.0.0\\system.buffers.4.0.0.nupkg.sha512",
@@ -51,6 +56,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.collections.nongeneric\\4.0.1\\system.collections.nongeneric.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.collections.specialized\\4.0.1\\system.collections.specialized.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\4.1.0\\system.componentmodel.annotations.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.primitives\\4.1.0\\system.componentmodel.primitives.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.typeconverter\\4.1.0\\system.componentmodel.typeconverter.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.contracts\\4.0.1\\system.diagnostics.contracts.4.0.1.nupkg.sha512",
@@ -77,6 +83,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.reflection.typeextensions\\4.1.0\\system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.resources.reader\\4.0.0\\system.resources.reader.4.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
@@ -102,7 +109,8 @@
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }
