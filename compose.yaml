@@ -2,7 +2,8 @@
 
 services:
   backend:
-    build: .
+    build:
+      context: .
       dockerfile: NebulaWebApp/Dockerfile
     restart: always
     expose:
