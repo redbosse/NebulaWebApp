@@ -1,6 +1,11 @@
 ﻿FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
+COPY NuGet.Config ./
+COPY ["NebulaWebApp/NebulaWebApp.csproj", "NebulaWebApp/"]
+RUN dotnet restore "NebulaWebApp/NebulaWebApp.csproj"
+
+
 # Копируем только csproj, чтобы restore кэшировался
 COPY ["NebulaWebApp/NebulaWebApp.csproj", "NebulaWebApp/"]
 RUN dotnet restore "NebulaWebApp/NebulaWebApp.csproj" -v normal
