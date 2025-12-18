@@ -3,7 +3,8 @@ WORKDIR /src
 
 # Копируем только csproj, чтобы restore кэшировался
 COPY ["NebulaWebApp/NebulaWebApp.csproj", "NebulaWebApp/"]
-RUN dotnet restore "NebulaWebApp/NebulaWebApp.csproj"
+RUN dotnet restore "NebulaWebApp/NebulaWebApp.csproj" -v normal
+
 
 # Копируем остальной исходник
 COPY . .
