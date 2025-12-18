@@ -3,6 +3,7 @@
 services:
   backend:
     build: .
+      dockerfile: NebulaWebApp/Dockerfile
     restart: always
     expose:
       - "8080"
