@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NebulaWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28b59c8390f2f33f8befa6637b8d64374b99e1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f8f86e580e2a336e8c06f59f82268b929cd4df")]
 [assembly: System.Reflection.AssemblyProductAttribute("NebulaWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NebulaWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
